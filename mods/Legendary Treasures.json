@@ -1,17 +1,62 @@
 {
-  "ID": "729371a6-b147-4504-9ccd-1eec5caba3go",
-  "Title": "Golden Ocarina",
-  "Description": "Free Golden Quintar at the Quintar Reserve",
+  "ID": "d836a4b4-815f-4480-a65e-0e57fac653lt",
+  "Title": "Legendary Treasures",
+  "Description": "Adds a bunch of very strong accessories to the game.",
   "Author": "",
   "Version": "1.0",
   "EditorVersion": 26,
   "SteamWorkshopFileID": 0,
-  "Timestamp": "2024-11-01T15:54:10.4959652Z",
+  "Timestamp": "2024-11-02T18:50:37.0317161Z",
   "IsLocalization": false,
   "Language": null,
   "HasCustomContent": false,
   "Fonts": null,
-  "System": null,
+  "System": {
+    "StartingLoot": [
+      {
+        "LootType": 1,
+        "LootID": 18,
+        "LootQuantity": 3
+      },
+      {
+        "LootType": 3,
+        "LootID": 0,
+        "LootQuantity": 10
+      },
+      {
+        "LootType": 2,
+        "LootID": 591,
+        "LootQuantity": 4
+      },
+      {
+        "LootType": 2,
+        "LootID": 592,
+        "LootQuantity": 1
+      },
+      {
+        "LootType": 2,
+        "LootID": 593,
+        "LootQuantity": 1
+      },
+      {
+        "LootType": 2,
+        "LootID": 594,
+        "LootQuantity": 1
+      }
+    ],
+    "MemberDefaults": null,
+    "BattleConfig": null,
+    "FieldConfig": null,
+    "TeleportPoints": null,
+    "MainNpcs": null,
+    "NarrationItems": null,
+    "BulletinItems": null,
+    "Achievements": null,
+    "Randomizer": null,
+    "Vocab": null,
+    "Credits": null,
+    "Comments": null
+  },
   "Tree": [
     {
       "ModelTypeID": 3,
@@ -5562,7 +5607,7 @@
               "IsExpanded": false
             }
           ],
-          "IsExpanded": false
+          "IsExpanded": true
         },
         {
           "ModelTypeID": 5,
@@ -9008,24 +9053,9 @@
                 }
               ],
               "IsExpanded": false
-            },
-            {
-              "ModelTypeID": 4,
-              "ModelID": 229,
-              "SortOrder": 6,
-              "Children": [
-                {
-                  "ModelTypeID": 0,
-                  "ModelID": 508,
-                  "SortOrder": 0,
-                  "Children": [],
-                  "IsExpanded": true
-                }
-              ],
-              "IsExpanded": false
             }
           ],
-          "IsExpanded": true
+          "IsExpanded": false
         },
         {
           "ModelTypeID": 3,
@@ -10447,7 +10477,7 @@
           "IsExpanded": false
         }
       ],
-      "IsExpanded": true
+      "IsExpanded": false
     },
     {
       "ModelTypeID": 3,
@@ -14914,31 +14944,31 @@
                   "ModelID": 343,
                   "SortOrder": 1,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 },
                 {
                   "ModelTypeID": 2,
                   "ModelID": 348,
                   "SortOrder": 2,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 },
                 {
                   "ModelTypeID": 2,
                   "ModelID": 52,
                   "SortOrder": 3,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 },
                 {
                   "ModelTypeID": 2,
                   "ModelID": 265,
                   "SortOrder": 4,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 }
               ],
-              "IsExpanded": false
+              "IsExpanded": true
             },
             {
               "ModelTypeID": 3,
@@ -14950,28 +14980,28 @@
                   "ModelID": 531,
                   "SortOrder": 0,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 },
                 {
                   "ModelTypeID": 2,
                   "ModelID": 271,
                   "SortOrder": 1,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 },
                 {
                   "ModelTypeID": 2,
                   "ModelID": 350,
                   "SortOrder": 2,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 },
                 {
                   "ModelTypeID": 2,
                   "ModelID": 354,
                   "SortOrder": 3,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 },
                 {
                   "ModelTypeID": 2,
@@ -14989,10 +15019,10 @@
                   "IsExpanded": false
                 }
               ],
-              "IsExpanded": false
+              "IsExpanded": true
             }
           ],
-          "IsExpanded": false
+          "IsExpanded": true
         },
         {
           "ModelTypeID": 3,
@@ -15327,7 +15357,7 @@
           "IsExpanded": false
         }
       ],
-      "IsExpanded": false
+      "IsExpanded": true
     },
     {
       "ModelTypeID": 3,
@@ -15349,7 +15379,7 @@
                   "ModelID": 48,
                   "SortOrder": 0,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 },
                 {
                   "ModelTypeID": 2,
@@ -15391,7 +15421,7 @@
                   "ModelID": 49,
                   "SortOrder": 6,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 }
               ],
               "IsExpanded": false
@@ -15442,7 +15472,7 @@
                   "ModelID": 54,
                   "SortOrder": 0,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 },
                 {
                   "ModelTypeID": 2,
@@ -15464,12 +15494,40 @@
                   "SortOrder": 3,
                   "Children": [],
                   "IsExpanded": false
+                },
+                {
+                  "ModelTypeID": 2,
+                  "ModelID": 591,
+                  "SortOrder": 4,
+                  "Children": [],
+                  "IsExpanded": true
+                },
+                {
+                  "ModelTypeID": 2,
+                  "ModelID": 592,
+                  "SortOrder": 5,
+                  "Children": [],
+                  "IsExpanded": true
+                },
+                {
+                  "ModelTypeID": 2,
+                  "ModelID": 593,
+                  "SortOrder": 6,
+                  "Children": [],
+                  "IsExpanded": true
+                },
+                {
+                  "ModelTypeID": 2,
+                  "ModelID": 594,
+                  "SortOrder": 7,
+                  "Children": [],
+                  "IsExpanded": true
                 }
               ],
-              "IsExpanded": false
+              "IsExpanded": true
             }
           ],
-          "IsExpanded": false
+          "IsExpanded": true
         },
         {
           "ModelTypeID": 3,
@@ -15991,7 +16049,7 @@
                   "ModelID": 494,
                   "SortOrder": 15,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 },
                 {
                   "ModelTypeID": 2,
@@ -16008,13 +16066,13 @@
                   "IsExpanded": false
                 }
               ],
-              "IsExpanded": false
+              "IsExpanded": true
             }
           ],
           "IsExpanded": false
         }
       ],
-      "IsExpanded": false
+      "IsExpanded": true
     },
     {
       "ModelTypeID": 3,
@@ -22409,7 +22467,7 @@
               "IsExpanded": false
             }
           ],
-          "IsExpanded": true
+          "IsExpanded": false
         },
         {
           "ModelTypeID": 14,
@@ -24987,7 +25045,7 @@
           "IsExpanded": false
         }
       ],
-      "IsExpanded": true
+      "IsExpanded": false
     },
     {
       "ModelTypeID": 3,
@@ -27077,104 +27135,149 @@
       "IsExpanded": false
     }
   ],
-  "Abilities": [
+  "Abilities": [],
+  "Animations": [],
+  "Biomes": [],
+  "Difficulties": [],
+  "Equipment": [
     {
-      "ID": 508,
-      "Name": "Golden Ocarina",
+      "ID": 591,
+      "Name": "Learners Charm",
+      "Comments": null,
+      "Flavor": "Knowledge is the key to power. So why not speed it up a little?",
+      "Description": "",
+      "HideStatModsFromDescription": false,
+      "SortOrder": 511,
+      "ScaledOrder": 0,
+      "TexturePath": "Equipment/AccessoryD",
+      "TextureIndex": 3,
+      "Level": 0,
+      "NoAutoCost": false,
+      "NoAutoStats": false,
+      "Cost": 0,
+      "MaxCapacity": 0,
+      "EquipmentType": 18,
+      "IsTwoHanded": false,
+      "IsOneOnly": true,
+      "PreventAutoEquip": false,
+      "StatMods": [
+        {
+          "Tag": 398,
+          "Value1": 200,
+          "Value2": 0,
+          "Value3": 0
+        },
+        {
+          "Tag": 399,
+          "Value1": 200,
+          "Value2": 0,
+          "Value3": 0
+        }
+      ]
+    },
+    {
+      "ID": 592,
+      "Name": "Greedy Charm",
+      "Comments": null,
+      "Flavor": null,
+      "Description": "",
+      "HideStatModsFromDescription": false,
+      "SortOrder": 512,
+      "ScaledOrder": 0,
+      "TexturePath": "Equipment/AccessoryD",
+      "TextureIndex": 46,
+      "Level": 0,
+      "NoAutoCost": false,
+      "NoAutoStats": false,
+      "Cost": 0,
+      "MaxCapacity": 1,
+      "EquipmentType": 18,
+      "IsTwoHanded": false,
+      "IsOneOnly": true,
+      "PreventAutoEquip": false,
+      "StatMods": [
+        {
+          "Tag": 497,
+          "Value1": 200,
+          "Value2": 0,
+          "Value3": 0
+        }
+      ]
+    },
+    {
+      "ID": 593,
+      "Name": "Ring of Nomis",
       "Comments": null,
       "Flavor": null,
       "Description": null,
-      "SortOrder": 432,
-      "TexturePath": null,
-      "TextureIndex": 0,
-      "HideDamageFromDescription": false,
-      "HideScopeFromDescription": true,
-      "HideStatusesFromDescription": false,
-      "HideModsFromDescription": false,
-      "UsageAnimationID": null,
-      "AnimationID": null,
-      "JP": 0,
-      "HPCost": 0,
-      "MPCost": 0,
-      "APCost": 0,
-      "CTCost": 0,
-      "CDCost": 0,
-      "IsDefaultLocked": false,
-      "IsSightLearned": false,
-      "BattleDisabled": false,
-      "FieldEnabled": true,
-      "ScopeLocked": false,
-      "Scope": 0,
-      "Target": 1,
-      "EnabledWeaponTypes": [],
-      "EnabledUnarmed": false,
-      "InvertEnabledTypesDisplay": false,
-      "Attribute": 0,
-      "IsPAbil": false,
-      "IsMAbil": false,
-      "IsBasic": false,
-      "PDefAsPAtk": false,
-      "StrRate": 0,
-      "VitRate": 0,
-      "DexRate": 0,
-      "AgiRate": 0,
-      "MndRate": 0,
-      "SpiRate": 0,
-      "SpdRate": 0,
-      "LckRate": 0,
-      "ScalingPAtkRate": null,
-      "ScalingPower": null,
-      "BasePAtkRate": 0,
-      "BasePower": 0,
-      "BaseAcc": 0,
-      "BaseCritChance": 0,
-      "BaseCritDmg": 0,
-      "BaseVar": 0,
-      "PDefRate": 0,
-      "MDefRate": 0,
-      "Element": null,
-      "TargetStatuses": [],
-      "UserStatuses": [],
-      "AbilityMods": [
+      "HideStatModsFromDescription": false,
+      "SortOrder": 513,
+      "ScaledOrder": 0,
+      "TexturePath": "Equipment/AccessoryC",
+      "TextureIndex": 17,
+      "Level": 0,
+      "NoAutoCost": false,
+      "NoAutoStats": false,
+      "Cost": 0,
+      "MaxCapacity": 1,
+      "EquipmentType": 18,
+      "IsTwoHanded": false,
+      "IsOneOnly": true,
+      "PreventAutoEquip": false,
+      "StatMods": [
         {
-          "Tag": 127,
-          "Value1": 14,
-          "Value2": 0
+          "Tag": 402,
+          "Value1": 13,
+          "Value2": 100,
+          "Value3": 255
+        },
+        {
+          "Tag": 402,
+          "Value1": 15,
+          "Value2": 100,
+          "Value3": 255
+        }
+      ]
+    },
+    {
+      "ID": 594,
+      "Name": "Ring of Namra",
+      "Comments": null,
+      "Flavor": null,
+      "Description": null,
+      "HideStatModsFromDescription": false,
+      "SortOrder": 514,
+      "ScaledOrder": 0,
+      "TexturePath": "Equipment/AccessoryC",
+      "TextureIndex": 16,
+      "Level": 0,
+      "NoAutoCost": false,
+      "NoAutoStats": false,
+      "Cost": 0,
+      "MaxCapacity": 1,
+      "EquipmentType": 18,
+      "IsTwoHanded": false,
+      "IsOneOnly": true,
+      "PreventAutoEquip": false,
+      "StatMods": [
+        {
+          "Tag": 402,
+          "Value1": 49,
+          "Value2": 100,
+          "Value3": 255
+        },
+        {
+          "Tag": 402,
+          "Value1": 100,
+          "Value2": 100,
+          "Value3": 255
         }
       ]
     }
   ],
-  "Animations": [],
-  "Biomes": [],
-  "Difficulties": [],
-  "Equipment": [],
   "Folders": [],
   "Genders": [],
-  "Items": [
-    {
-      "ID": 229,
-      "Name": "Golden Ocarina",
-      "Comments": null,
-      "Flavor": null,
-      "Description": null,
-      "SortOrder": 38,
-      "ScaledOrder": 183,
-      "LocationBiomeID": 130,
-      "TexturePath": "Icon/ItemA",
-      "TextureIndex": 35,
-      "Cost": 120000,
-      "MaxCapacity": 0,
-      "IsConsumable": false,
-      "IsCombat": false,
-      "IsSellable": false,
-      "AutoLostAndFound": false,
-      "AbilityID": 508,
-      "MapForBiomeID": null,
-      "IncreaseMaxCapacityForItemID": null,
-      "IncreaseMaxCapacityBy": null,
-      "SpecialBonus": 0
-    }
-  ],
+  "Items": [],
   "Jobs": [],
   "Monsters": [],
   "Passives": [],
@@ -27182,192 +27285,5 @@
   "Sparks": [],
   "Statuses": [],
   "Troops": [],
-  "Entities": [
-    {
-      "ID": 470,
-      "Coord": {
-        "X": 724,
-        "Y": 190,
-        "Z": -315
-      },
-      "BiomeID": 52,
-      "EntityType": 0,
-      "Comments": null,
-      "NpcData": {
-        "Key": "Z52_QuintarShop",
-        "LinkedKey": null,
-        "TieToSpawn": false,
-        "UniquePerKey": false,
-        "Outfits": [
-          {
-            "Condition": {
-              "ConditionType": 0,
-              "Data": null,
-              "IsNegation": false
-            },
-            "TextureKey": "Actor/Animal_QuintarStandingA",
-            "Name": "Quintar",
-            "PlayerCharacterLevel": null,
-            "JobID": null,
-            "Facing": 5,
-            "ShadowType": 2,
-            "AutoStep": false,
-            "VoxelID": null,
-            "VoxelVariantIndex": 0,
-            "PlayerCollision": 3,
-            "NpcCollision": 0,
-            "MountType": 15,
-            "JumpType": 0,
-            "KeepSpawned": false,
-            "WanderType": 0,
-            "WanderSpeed": 0.0,
-            "WanderFrequency": 0,
-            "WanderRadius": 0.0,
-            "WanderRoute": [],
-            "WanderRouteIsLine": false
-          }
-        ],
-        "Pages": [
-          {
-            "Condition": {
-              "ConditionType": 0,
-              "Data": null,
-              "IsNegation": false
-            },
-            "TriggerType": 0,
-            "TriggerProximityRadius": 1.0,
-            "TriggerProximityBox": {
-              "XNeg": 0.0,
-              "YNeg": 0.0,
-              "ZNeg": 0.0,
-              "XPos": 0.0,
-              "YPos": 0.0,
-              "ZPos": 0.0
-            },
-            "TriggerOnExitProximity": false,
-            "TriggerTouchType": 0,
-            "Actions": [
-              {
-                "ActionType": 0,
-                "Data": null
-              },
-              {
-                "ActionType": 3,
-                "Data": {
-                  "Condition": {
-                    "ConditionType": 14,
-                    "Data": null,
-                    "IsNegation": false
-                  },
-                  "ConditionActionsTrue": [
-                    {
-                      "ActionType": 1,
-                      "Data": {
-                        "Message": "Qwei qwei my friend!\r\nAre you here for the \"special\" goods?",
-                        "NpcKey": null,
-                        "Choices": [],
-                        "AnswerVariableKey": null,
-                        "ShowPartyStatus": false
-                      }
-                    },
-                    {
-                      "ActionType": 5,
-                      "Data": {
-                        "Stock": [
-                          {
-                            "LootType": 2,
-                            "LootValue": 493,
-                            "CostRate": 100,
-                            "Condition": {
-                              "ConditionType": 0,
-                              "Data": null,
-                              "IsNegation": false
-                            }
-                          },
-                          {
-                            "LootType": 2,
-                            "LootValue": 445,
-                            "CostRate": 100,
-                            "Condition": {
-                              "ConditionType": 0,
-                              "Data": null,
-                              "IsNegation": false
-                            }
-                          },
-                          {
-                            "LootType": 2,
-                            "LootValue": 487,
-                            "CostRate": 100,
-                            "Condition": {
-                              "ConditionType": 0,
-                              "Data": null,
-                              "IsNegation": false
-                            }
-                          },
-                          {
-                            "LootType": 2,
-                            "LootValue": 281,
-                            "CostRate": 100,
-                            "Condition": {
-                              "ConditionType": 0,
-                              "Data": null,
-                              "IsNegation": false
-                            }
-                          },
-                          {
-                            "LootType": 1,
-                            "LootValue": 119,
-                            "CostRate": 100,
-                            "Condition": {
-                              "ConditionType": 0,
-                              "Data": null,
-                              "IsNegation": false
-                            }
-                          },
-                          {
-                            "LootType": 1,
-                            "LootValue": 229,
-                            "CostRate": 0,
-                            "Condition": {
-                              "ConditionType": 0,
-                              "Data": null,
-                              "IsNegation": false
-                            }
-                          }
-                        ]
-                      }
-                    }
-                  ],
-                  "ConditionActionsFalse": [
-                    {
-                      "ActionType": 1,
-                      "Data": {
-                        "Message": "Qwei!",
-                        "NpcKey": null,
-                        "Choices": [],
-                        "AnswerVariableKey": null,
-                        "ShowPartyStatus": false
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "ActionType": 2,
-                "Data": null
-              }
-            ],
-            "Context": 0
-          }
-        ]
-      },
-      "SignData": null,
-      "SparkData": null,
-      "DoorData": null,
-      "HomePointData": null,
-      "TreasureData": null,
-      "CrystalData": null,
-      "MarkerData": null
-    }
-  ]
+  "Entities": []
 }
