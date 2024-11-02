@@ -1,7 +1,7 @@
 {
-  "ID": "729371a6-b147-4504-9ccd-1eec5caba3ee",
-  "Title": "Map Merchant",
-  "Description": "Adds a frog merchant to the start of the game that sells every map in the game.",
+  "ID": "729371a6-b147-4504-9ccd-1eec5caba3ef",
+  "Title": "Map Merchant (Free)",
+  "Description": "Adds a frog merchant to the start of the game that sells every map in the game for free.",
   "Author": "",
   "Version": "1.0",
   "EditorVersion": 26,
@@ -27163,7 +27163,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 73,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27173,7 +27173,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 74,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27183,7 +27183,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 79,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27193,7 +27193,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 75,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27203,7 +27203,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 76,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27213,7 +27213,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 77,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27223,7 +27223,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 87,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27233,7 +27233,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 80,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27243,7 +27243,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 213,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27253,7 +27253,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 78,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27263,7 +27263,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 214,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27273,7 +27273,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 82,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27283,7 +27283,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 83,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27293,7 +27293,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 84,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27303,7 +27303,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 85,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27313,7 +27313,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 89,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27323,7 +27323,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 90,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27333,7 +27333,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 92,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27343,7 +27343,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 120,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27353,7 +27353,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 94,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27363,7 +27363,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 170,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27373,7 +27373,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 96,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27383,7 +27383,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 98,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27393,7 +27393,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 86,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27403,7 +27403,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 99,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27413,7 +27413,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 100,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27423,7 +27423,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 217,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27433,7 +27433,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 101,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27443,7 +27443,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 103,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27453,7 +27453,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 104,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27463,7 +27463,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 105,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27473,7 +27473,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 106,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27483,7 +27483,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 128,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27493,7 +27493,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 215,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27503,7 +27503,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 216,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27513,7 +27513,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 198,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27523,7 +27523,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 107,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27533,7 +27533,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 108,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27543,7 +27543,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 117,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27553,7 +27553,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 109,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27563,7 +27563,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 110,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27573,7 +27573,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 121,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27583,7 +27583,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 119,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27593,7 +27593,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 199,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27603,7 +27603,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 211,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27613,7 +27613,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 219,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27623,7 +27623,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 112,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27633,7 +27633,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 194,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27643,7 +27643,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 130,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27653,7 +27653,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 113,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27663,7 +27663,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 220,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27673,7 +27673,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 218,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27683,7 +27683,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 127,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27693,7 +27693,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 221,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27703,7 +27703,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 222,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27713,7 +27713,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 223,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27723,7 +27723,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 122,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27733,7 +27733,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 123,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27743,7 +27743,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 124,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27753,7 +27753,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 206,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27763,7 +27763,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 228,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27773,7 +27773,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 126,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27783,7 +27783,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 210,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27793,7 +27793,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 111,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27803,7 +27803,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 195,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27813,7 +27813,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 209,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27823,7 +27823,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 125,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
@@ -27833,7 +27833,7 @@
                     {
                       "LootType": 1,
                       "LootValue": 254,
-                      "CostRate": 100,
+                      "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
                         "Data": null,
