@@ -44,5 +44,12 @@ But if you really can't find <u>*that one glyph*</u>, feel free to check in the 
     * **Linux**: *~/.local/share/Crystal Project/Mods/*
 * Enable the mod in-game
 
+## ToDo
+
+- [X] Add all regular home points
+- [X] Check if all glyphs are obtainable
+- [ ] Add a bonus glyph with additional teleport locations
+- [ ] Find out how to upload the mod to Steam without owning the Steam version
+
 ## Special Thanks
 A special thanks goes out to **@Rafidur** and **#Z`** on the official Discord server. Without your help at the beginning none of this would have worked out.
