@@ -26,6 +26,16 @@ As an example: The **Capital Sequoia Glyph** unlocks the following home points i
 
 I hope you enjoy this little mod. I put a lot of work and effort into it.
 
+## Glyph Locations
+I highly encourage you to try and find the glyphs by yourself. It's part of the adventure.
+But if you really can't find <u>*that one glyph*</u>, feel free to check in the **Glyph_Location_Reference.pdf**.
+
+## Compatibility & Testing
+* The mod has been tested with version 1.6.1
+* All glyphs have been tested and are obtainable when starting a new game
+* All glyphs have been tested and ***should*** be obtainable if the mod is used otherwise
+    * If I missed any strange situations and a glyph is unobtainable, feel free to open an issue
+
 ## How to install the mod
 * Download the mods
 * Copy the .json file to either
