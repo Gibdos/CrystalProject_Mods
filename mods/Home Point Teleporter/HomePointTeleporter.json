@@ -6,7 +6,7 @@
   "Version": "1.0",
   "EditorVersion": 26,
   "SteamWorkshopFileID": 0,
-  "Timestamp": "2024-11-03T16:37:59.676421Z",
+  "Timestamp": "2024-11-03T17:21:37.4438157Z",
   "IsLocalization": false,
   "Language": null,
   "HasCustomContent": false,
@@ -16952,7 +16952,7 @@
               "IsExpanded": false
             }
           ],
-          "IsExpanded": false
+          "IsExpanded": true
         },
         {
           "ModelTypeID": 14,
@@ -36106,6 +36106,82 @@
             "TriggerOnExitProximity": false,
             "TriggerTouchType": 0,
             "Actions": [
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 3,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "RelocatorGot",
+                      "Eval": 0,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 0,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": true
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 0,
+                      "Data": null
+                    },
+                    {
+                      "ActionType": 1,
+                      "Data": {
+                        "Message": "Oh hi deary! Look what I found between some old books.",
+                        "NpcKey": null,
+                        "Choices": [],
+                        "AnswerVariableKey": null,
+                        "ShowPartyStatus": false
+                      }
+                    },
+                    {
+                      "ActionType": 8,
+                      "Data": {
+                        "LootType": 1,
+                        "LootValue": 236,
+                        "Count": 1,
+                        "Redirect": false
+                      }
+                    },
+                    {
+                      "ActionType": 8,
+                      "Data": {
+                        "LootType": 1,
+                        "LootValue": 260,
+                        "Count": 1,
+                        "Redirect": false
+                      }
+                    },
+                    {
+                      "ActionType": 2,
+                      "Data": null
+                    },
+                    {
+                      "ActionType": 6,
+                      "Data": {
+                        "Scope": 0,
+                        "EntityKey": null,
+                        "VariableKey": "RelocatorGot",
+                        "VariableType": 0,
+                        "Flag": true,
+                        "Number": 0,
+                        "SourceVariableScope": 0,
+                        "SourceVariableKey": null,
+                        "LootType": 0,
+                        "LootValue": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
               {
                 "ActionType": 3,
                 "Data": {
