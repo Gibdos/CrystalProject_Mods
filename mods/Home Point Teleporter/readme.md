@@ -28,7 +28,7 @@ I hope you enjoy this little mod. I put a lot of work and effort into it.
 
 ## Glyph Locations
 I highly encourage you to try and find the glyphs by yourself. It's part of the adventure.
-But if you really can't find <u>*that one glyph*</u>, feel free to check in the **Glyph_Location_Reference.pdf**.
+But if you really can't find <u>*that one glyph*</u>, feel free to check in the [Glyph Location Reference](https://github.com/Gibdos/CrystalProject_Mods/blob/8119b7f881bc2a6fbc2a7f6c4a6b60c218fe9851/mods/Home%20Point%20Teleporter/Glyph_Location_Reference.pdf).
 
 ## Compatibility & Testing
 * The mod has been tested with version 1.6.1
