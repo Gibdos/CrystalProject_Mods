@@ -6,7 +6,7 @@
   "Version": "1.0",
   "EditorVersion": 26,
   "SteamWorkshopFileID": 0,
-  "Timestamp": "2024-11-03T11:44:31.5490938Z",
+  "Timestamp": "2024-11-03T12:02:32.6055501Z",
   "IsLocalization": false,
   "Language": null,
   "HasCustomContent": false,
@@ -30206,7 +30206,7 @@
                         "Offset": {
                           "X": 78,
                           "Y": 124,
-                          "Z": 84
+                          "Z": 86
                         },
                         "PostMoveFacing": null,
                         "IsRelative": false,
@@ -30249,7 +30249,7 @@
                         "Offset": {
                           "X": 96,
                           "Y": 100,
-                          "Z": 117
+                          "Z": 119
                         },
                         "PostMoveFacing": null,
                         "IsRelative": false,
@@ -30292,7 +30292,7 @@
                         "Offset": {
                           "X": 73,
                           "Y": 148,
-                          "Z": 88
+                          "Z": 89
                         },
                         "PostMoveFacing": null,
                         "IsRelative": false,
