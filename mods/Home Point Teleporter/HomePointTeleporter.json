@@ -6,7 +6,7 @@
   "Version": "1.0",
   "EditorVersion": 26,
   "SteamWorkshopFileID": 0,
-  "Timestamp": "2024-11-03T17:21:37.4438157Z",
+  "Timestamp": "2024-11-03T20:33:54.0313167Z",
   "IsLocalization": false,
   "Language": null,
   "HasCustomContent": false,
@@ -16952,7 +16952,7 @@
               "IsExpanded": false
             }
           ],
-          "IsExpanded": true
+          "IsExpanded": false
         },
         {
           "ModelTypeID": 14,
@@ -20687,7 +20687,7 @@
                   "IsExpanded": true
                 }
               ],
-              "IsExpanded": true
+              "IsExpanded": false
             },
             {
               "ModelTypeID": 4,
@@ -23408,7 +23408,7 @@
               "ModelID": 62,
               "SortOrder": 4,
               "Children": [],
-              "IsExpanded": false
+              "IsExpanded": true
             },
             {
               "ModelTypeID": 14,
@@ -23593,7 +23593,7 @@
                   "ModelID": 137,
                   "SortOrder": 2,
                   "Children": [],
-                  "IsExpanded": false
+                  "IsExpanded": true
                 }
               ],
               "IsExpanded": false
@@ -24071,7 +24071,7 @@
               "ModelID": 105,
               "SortOrder": 1,
               "Children": [],
-              "IsExpanded": false
+              "IsExpanded": true
             },
             {
               "ModelTypeID": 4,
@@ -25296,7 +25296,7 @@
               "IsExpanded": false
             }
           ],
-          "IsExpanded": false
+          "IsExpanded": true
         }
       ],
       "IsExpanded": false
@@ -25344,7 +25344,7 @@
               "ModelID": 140,
               "SortOrder": 4,
               "Children": [],
-              "IsExpanded": false
+              "IsExpanded": true
             },
             {
               "ModelTypeID": 14,
@@ -25474,7 +25474,7 @@
                   "IsExpanded": true
                 }
               ],
-              "IsExpanded": false
+              "IsExpanded": true
             },
             {
               "ModelTypeID": 3,
@@ -25652,7 +25652,7 @@
               "ModelID": 92,
               "SortOrder": 2,
               "Children": [],
-              "IsExpanded": false
+              "IsExpanded": true
             },
             {
               "ModelTypeID": 14,
@@ -25738,7 +25738,7 @@
                   "IsExpanded": false
                 }
               ],
-              "IsExpanded": true
+              "IsExpanded": false
             },
             {
               "ModelTypeID": 3,
@@ -26717,7 +26717,7 @@
               "IsExpanded": true
             }
           ],
-          "IsExpanded": false
+          "IsExpanded": true
         },
         {
           "ModelTypeID": 10,
@@ -28367,1305 +28367,6 @@
   "Jobs": [],
   "Monsters": [
     {
-      "ID": 78,
-      "Name": "Iguanadon",
-      "Comments": "Boss idea: Two enemies; one is AoE, one is single target. When one dies, the other powers up.\r\nNo-auto:\r\n- Less HP (because there are two)\r\n- Less Spd (match his bro's speed)\r\n- Less Dex\r\n- Half JP (to total 100)",
-      "Flavor": null,
-      "Description": null,
-      "SortOrder": 174,
-      "LocationBiomeID": 19,
-      "TexturePath": "Monster/Z19_OgreBossA",
-      "TexturePathAlt": null,
-      "TextureFocusX": 112,
-      "TextureFocusY": 37,
-      "TextureBubbleX": 69,
-      "TextureBubbleY": 20,
-      "HasShadow": true,
-      "HasBreathing": true,
-      "AttackAnimationID": 35,
-      "IsPvp": false,
-      "PvpJobID": 0,
-      "PvpGenderID": 0,
-      "PvpWeaponID": null,
-      "PvpTextureType": 0,
-      "Level": 40,
-      "IsBoss": true,
-      "AvgPop": 2,
-      "Category": 1,
-      "NoAuto": true,
-      "Exp": 440,
-      "JP": 50,
-      "Money": 2400,
-      "ItemDrops": [
-        {
-          "LootType": 1,
-          "ItemID": 136,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 1
-        },
-        {
-          "LootType": 2,
-          "ItemID": 0,
-          "EquipmentID": 462,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 1
-        },
-        {
-          "LootType": 1,
-          "ItemID": 231,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 1
-        }
-      ],
-      "ItemSteals": [
-        {
-          "LootType": 2,
-          "ItemID": 0,
-          "EquipmentID": 128,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 0
-        }
-      ],
-      "HP": 8000,
-      "MP": 300,
-      "Str": 140,
-      "Vit": 250,
-      "Dex": 90,
-      "Agi": 110,
-      "Mnd": 140,
-      "Spi": 190,
-      "Spd": 90,
-      "Lck": 130,
-      "PAtk": 200,
-      "PPen": 0,
-      "PDef": 460,
-      "PCritChance": 0,
-      "PCritDmg": 0,
-      "PAccRating": 0,
-      "PEvaRating": 0,
-      "MPen": 0,
-      "MDef": 240,
-      "PVariance": 0,
-      "StatMods": [
-        {
-          "Tag": 226,
-          "Value1": 10,
-          "Value2": 0,
-          "Value3": 0
-        },
-        {
-          "Tag": 401,
-          "Value1": 24,
-          "Value2": 0,
-          "Value3": 0
-        },
-        {
-          "Tag": 401,
-          "Value1": 6,
-          "Value2": 0,
-          "Value3": 0
-        }
-      ],
-      "Actions": [
-        {
-          "AbilityID": 0,
-          "Priority": 0,
-          "Weight": 100,
-          "Conds": [],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 401,
-          "Priority": 1,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 2,
-              "SubConds": [
-                {
-                  "CondGroup": 0,
-                  "SubConds": null,
-                  "CondVar": 44,
-                  "CondEval": 3,
-                  "Not": false,
-                  "Value": 0,
-                  "Data1": 0
-                },
-                {
-                  "CondGroup": 0,
-                  "SubConds": null,
-                  "CondVar": 61,
-                  "CondEval": 3,
-                  "Not": false,
-                  "Value": 3,
-                  "Data1": 0
-                }
-              ],
-              "CondVar": 0,
-              "CondEval": 0,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 294,
-          "Priority": 1,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 6,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 28,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 326,
-          "Priority": 2,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 60,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 28,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 1,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        }
-      ]
-    },
-    {
-      "ID": 100,
-      "Name": "Iguanadin",
-      "Comments": "Boss idea: Two enemies; one is AoE, one is single target. When one dies, the other powers up.\r\nNo-auto:\r\n- Less HP (because there are two)\r\n- Less Spd (match his bro's speed)\r\n- Less Dex\r\n- Half JP (to total 100)",
-      "Flavor": null,
-      "Description": null,
-      "SortOrder": 175,
-      "LocationBiomeID": 19,
-      "TexturePath": "Monster/Z19_OgreBossB",
-      "TexturePathAlt": null,
-      "TextureFocusX": 110,
-      "TextureFocusY": 28,
-      "TextureBubbleX": 75,
-      "TextureBubbleY": 15,
-      "HasShadow": true,
-      "HasBreathing": true,
-      "AttackAnimationID": 35,
-      "IsPvp": false,
-      "PvpJobID": 0,
-      "PvpGenderID": 0,
-      "PvpWeaponID": null,
-      "PvpTextureType": 0,
-      "Level": 40,
-      "IsBoss": true,
-      "AvgPop": 2,
-      "Category": 0,
-      "NoAuto": true,
-      "Exp": 440,
-      "JP": 50,
-      "Money": 2400,
-      "ItemDrops": [
-        {
-          "LootType": 1,
-          "ItemID": 134,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 1
-        },
-        {
-          "LootType": 2,
-          "ItemID": 0,
-          "EquipmentID": 37,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 1
-        },
-        {
-          "LootType": 1,
-          "ItemID": 232,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 1
-        }
-      ],
-      "ItemSteals": [
-        {
-          "LootType": 2,
-          "ItemID": 0,
-          "EquipmentID": 127,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 0
-        }
-      ],
-      "HP": 8000,
-      "MP": 400,
-      "Str": 140,
-      "Vit": 180,
-      "Dex": 90,
-      "Agi": 140,
-      "Mnd": 140,
-      "Spi": 190,
-      "Spd": 90,
-      "Lck": 130,
-      "PAtk": 200,
-      "PPen": 0,
-      "PDef": 310,
-      "PCritChance": 0,
-      "PCritDmg": 0,
-      "PAccRating": -30,
-      "PEvaRating": 0,
-      "MPen": 0,
-      "MDef": 240,
-      "PVariance": 0,
-      "StatMods": [
-        {
-          "Tag": 226,
-          "Value1": 10,
-          "Value2": 0,
-          "Value3": 0
-        },
-        {
-          "Tag": 401,
-          "Value1": 24,
-          "Value2": 0,
-          "Value3": 0
-        },
-        {
-          "Tag": 401,
-          "Value1": 6,
-          "Value2": 0,
-          "Value3": 0
-        }
-      ],
-      "Actions": [
-        {
-          "AbilityID": 0,
-          "Priority": 0,
-          "Weight": 100,
-          "Conds": [],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 307,
-          "Priority": 1,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 50,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 2,
-              "SubConds": [
-                {
-                  "CondGroup": 0,
-                  "SubConds": null,
-                  "CondVar": 44,
-                  "CondEval": 3,
-                  "Not": false,
-                  "Value": 0,
-                  "Data1": 0
-                },
-                {
-                  "CondGroup": 0,
-                  "SubConds": null,
-                  "CondVar": 61,
-                  "CondEval": 3,
-                  "Not": false,
-                  "Value": 4,
-                  "Data1": 0
-                }
-              ],
-              "CondVar": 0,
-              "CondEval": 0,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 392,
-          "Priority": 2,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 7,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 6
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 326,
-          "Priority": 3,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 60,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 28,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 1,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        }
-      ]
-    },
-    {
-      "ID": 117,
-      "Name": "Anubis",
-      "Comments": "Uses Meteor when killed. It should basically one-hit-KO your entire party. You need to be able to survive it somehow to win the fight.\r\nNo-auto:\r\n- More HP. To make up for taking double damage from current wall changed element.",
-      "Flavor": null,
-      "Description": null,
-      "SortOrder": 262,
-      "LocationBiomeID": 56,
-      "TexturePath": "Monster/Z56_Anubis",
-      "TexturePathAlt": null,
-      "TextureFocusX": 79,
-      "TextureFocusY": 28,
-      "TextureBubbleX": 41,
-      "TextureBubbleY": 29,
-      "HasShadow": true,
-      "HasBreathing": true,
-      "AttackAnimationID": null,
-      "IsPvp": false,
-      "PvpJobID": 0,
-      "PvpGenderID": 0,
-      "PvpWeaponID": null,
-      "PvpTextureType": 0,
-      "Level": 62,
-      "IsBoss": true,
-      "AvgPop": 1,
-      "Category": 0,
-      "NoAuto": false,
-      "Exp": 1200,
-      "JP": 100,
-      "Money": 100000,
-      "ItemDrops": [
-        {
-          "LootType": 2,
-          "ItemID": 0,
-          "EquipmentID": 245,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 0
-        },
-        {
-          "LootType": 1,
-          "ItemID": 229,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 0
-        }
-      ],
-      "ItemSteals": [],
-      "HP": 38000,
-      "MP": 620,
-      "Str": 220,
-      "Vit": 280,
-      "Dex": 220,
-      "Agi": 220,
-      "Mnd": 320,
-      "Spi": 280,
-      "Spd": 290,
-      "Lck": 210,
-      "PAtk": 390,
-      "PPen": 0,
-      "PDef": 560,
-      "PCritChance": 0,
-      "PCritDmg": 0,
-      "PAccRating": 0,
-      "PEvaRating": 0,
-      "MPen": 0,
-      "MDef": 300,
-      "PVariance": 0,
-      "StatMods": [
-        {
-          "Tag": 226,
-          "Value1": 5,
-          "Value2": 0,
-          "Value3": 0
-        },
-        {
-          "Tag": 401,
-          "Value1": 24,
-          "Value2": 0,
-          "Value3": 0
-        },
-        {
-          "Tag": 403,
-          "Value1": 6,
-          "Value2": 380,
-          "Value3": 0
-        }
-      ],
-      "Actions": [
-        {
-          "AbilityID": 5,
-          "Priority": 0,
-          "Weight": 100,
-          "Conds": [],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 48,
-          "Priority": 1,
-          "Weight": 100,
-          "Conds": [],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 416,
-          "Priority": 2,
-          "Weight": 75,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 3,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 50,
-          "Priority": 2,
-          "Weight": 50,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 3,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 63,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 379
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 200,
-          "Priority": 2,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 3,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 63,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 379
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 7,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 100
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 379,
-          "Priority": 3,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 3,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        }
-      ]
-    },
-    {
-      "ID": 143,
-      "Name": "The Owlbear",
-      "Comments": "No-auto: Too much HP. Gave it less. It was too boring.",
-      "Flavor": null,
-      "Description": null,
-      "SortOrder": 205,
-      "LocationBiomeID": 63,
-      "TexturePath": "Monster/Z63_Owlbear",
-      "TexturePathAlt": null,
-      "TextureFocusX": 168,
-      "TextureFocusY": 52,
-      "TextureBubbleX": 75,
-      "TextureBubbleY": 16,
-      "HasShadow": true,
-      "HasBreathing": true,
-      "AttackAnimationID": null,
-      "IsPvp": false,
-      "PvpJobID": 0,
-      "PvpGenderID": 0,
-      "PvpWeaponID": null,
-      "PvpTextureType": 0,
-      "Level": 47,
-      "IsBoss": true,
-      "AvgPop": 1,
-      "Category": 1,
-      "NoAuto": true,
-      "Exp": 850,
-      "JP": 100,
-      "Money": 13000,
-      "ItemDrops": [
-        {
-          "LootType": 2,
-          "ItemID": 0,
-          "EquipmentID": 588,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 0
-        },
-        {
-          "LootType": 1,
-          "ItemID": 136,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 0
-        },
-        {
-          "LootType": 1,
-          "ItemID": 244,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 0
-        }
-      ],
-      "ItemSteals": [],
-      "HP": 18000,
-      "MP": 350,
-      "Str": 160,
-      "Vit": 300,
-      "Dex": 160,
-      "Agi": 130,
-      "Mnd": 210,
-      "Spi": 220,
-      "Spd": 190,
-      "Lck": 160,
-      "PAtk": 320,
-      "PPen": 0,
-      "PDef": 570,
-      "PCritChance": 0,
-      "PCritDmg": 0,
-      "PAccRating": 0,
-      "PEvaRating": -50,
-      "MPen": 0,
-      "MDef": 260,
-      "PVariance": 0,
-      "StatMods": [
-        {
-          "Tag": 226,
-          "Value1": 8,
-          "Value2": 0,
-          "Value3": 0
-        },
-        {
-          "Tag": 401,
-          "Value1": 24,
-          "Value2": 0,
-          "Value3": 0
-        }
-      ],
-      "Actions": [
-        {
-          "AbilityID": 0,
-          "Priority": 0,
-          "Weight": 100,
-          "Conds": [],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 433,
-          "Priority": 1,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 310,
-          "Priority": 1,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 6,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 3,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 44,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 455,
-          "Priority": 2,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 6,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 4,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 405,
-          "Priority": 2,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 60,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 10,
-              "CondEval": 1,
-              "Not": false,
-              "Value": 50,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 482,
-          "Priority": 1,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 6,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 4,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 488,
-          "Priority": 3,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 60,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 10,
-              "CondEval": 1,
-              "Not": false,
-              "Value": 70,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 44,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        }
-      ]
-    },
-    {
-      "ID": 192,
-      "Name": "Spirit Cage",
-      "Comments": "",
-      "Flavor": null,
-      "Description": null,
-      "SortOrder": 270,
-      "LocationBiomeID": 22,
-      "TexturePath": "Monster/Z22_Wendigo",
-      "TexturePathAlt": null,
-      "TextureFocusX": 80,
-      "TextureFocusY": 46,
-      "TextureBubbleX": 40,
-      "TextureBubbleY": 34,
-      "HasShadow": true,
-      "HasBreathing": true,
-      "AttackAnimationID": null,
-      "IsPvp": false,
-      "PvpJobID": 0,
-      "PvpGenderID": 0,
-      "PvpWeaponID": null,
-      "PvpTextureType": 0,
-      "Level": 63,
-      "IsBoss": true,
-      "AvgPop": 1,
-      "Category": 0,
-      "NoAuto": false,
-      "Exp": 1200,
-      "JP": 100,
-      "Money": 100000,
-      "ItemDrops": [
-        {
-          "LootType": 2,
-          "ItemID": 0,
-          "EquipmentID": 304,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 0
-        },
-        {
-          "LootType": 1,
-          "ItemID": 266,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 1
-        }
-      ],
-      "ItemSteals": [],
-      "HP": 32000,
-      "MP": 630,
-      "Str": 220,
-      "Vit": 290,
-      "Dex": 220,
-      "Agi": 220,
-      "Mnd": 320,
-      "Spi": 290,
-      "Spd": 300,
-      "Lck": 210,
-      "PAtk": 400,
-      "PPen": 0,
-      "PDef": 580,
-      "PCritChance": 0,
-      "PCritDmg": 0,
-      "PAccRating": 0,
-      "PEvaRating": 0,
-      "MPen": 0,
-      "MDef": 310,
-      "PVariance": 0,
-      "StatMods": [
-        {
-          "Tag": 226,
-          "Value1": 5,
-          "Value2": 0,
-          "Value3": 0
-        },
-        {
-          "Tag": 400,
-          "Value1": 0,
-          "Value2": -150,
-          "Value3": 0
-        },
-        {
-          "Tag": 401,
-          "Value1": 24,
-          "Value2": 0,
-          "Value3": 0
-        }
-      ],
-      "Actions": [
-        {
-          "AbilityID": 0,
-          "Priority": 0,
-          "Weight": 100,
-          "Conds": [],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 179,
-          "Priority": 1,
-          "Weight": 100,
-          "Conds": [],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 418,
-          "Priority": 2,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 28,
-              "CondEval": 0,
-              "Not": false,
-              "Value": 2,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 338,
-          "Priority": 3,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 28,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 5,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        }
-      ]
-    },
-    {
-      "ID": 207,
-      "Name": "Dr. Cool Aids",
-      "Comments": null,
-      "Flavor": null,
-      "Description": null,
-      "SortOrder": 113,
-      "LocationBiomeID": 33,
-      "TexturePath": null,
-      "TexturePathAlt": null,
-      "TextureFocusX": 0,
-      "TextureFocusY": 0,
-      "TextureBubbleX": 0,
-      "TextureBubbleY": 0,
-      "HasShadow": true,
-      "HasBreathing": true,
-      "AttackAnimationID": null,
-      "IsPvp": true,
-      "PvpJobID": 0,
-      "PvpGenderID": 0,
-      "PvpWeaponID": 138,
-      "PvpTextureType": 0,
-      "Level": 30,
-      "IsBoss": false,
-      "AvgPop": 4,
-      "Category": 1,
-      "NoAuto": true,
-      "Exp": 210,
-      "JP": 12,
-      "Money": 160,
-      "ItemDrops": [
-        {
-          "LootType": 1,
-          "ItemID": 25,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 1
-        },
-        {
-          "LootType": 1,
-          "ItemID": 256,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 1
-        }
-      ],
-      "ItemSteals": [],
-      "HP": 1500,
-      "MP": 80,
-      "Str": 100,
-      "Vit": 170,
-      "Dex": 100,
-      "Agi": 80,
-      "Mnd": 110,
-      "Spi": 130,
-      "Spd": 95,
-      "Lck": 100,
-      "PAtk": 150,
-      "PPen": 0,
-      "PDef": 260,
-      "PCritChance": 0,
-      "PCritDmg": 0,
-      "PAccRating": 0,
-      "PEvaRating": 0,
-      "MPen": 0,
-      "MDef": 210,
-      "PVariance": 0,
-      "StatMods": [
-        {
-          "Tag": 251,
-          "Value1": 2,
-          "Value2": 0,
-          "Value3": 0
-        }
-      ],
-      "Actions": [
-        {
-          "AbilityID": 0,
-          "Priority": 0,
-          "Weight": 100,
-          "Conds": [],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 93,
-          "Priority": 1,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 26,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": 209,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        }
-      ]
-    },
-    {
       "ID": 211,
       "Name": "Corruption",
       "Comments": "Note: An end-game standard ecounter. Should wipe the party if they hit it during their Jail dungeon run. It must be dodged to get the treasures.\r\n\r\nNo-auto:\r\n- It gives reduced gold just in case you kill it.\r\n  It would make you kinda too rich to farm these otherwise I think.\r\n  I did auto's value divided by 10.\r\n- Less EXP.\r\n- More JP.",
@@ -29849,201 +28550,6 @@
               "CondEval": 3,
               "Not": false,
               "Value": 3,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        }
-      ]
-    },
-    {
-      "ID": 242,
-      "Name": "Conscript",
-      "Comments": null,
-      "Flavor": null,
-      "Description": null,
-      "SortOrder": 302,
-      "LocationBiomeID": 79,
-      "TexturePath": "Monster/Z79_Angelo",
-      "TexturePathAlt": null,
-      "TextureFocusX": 346,
-      "TextureFocusY": 162,
-      "TextureBubbleX": 314,
-      "TextureBubbleY": 107,
-      "HasShadow": false,
-      "HasBreathing": true,
-      "AttackAnimationID": null,
-      "IsPvp": false,
-      "PvpJobID": 0,
-      "PvpGenderID": 0,
-      "PvpWeaponID": null,
-      "PvpTextureType": 0,
-      "Level": 60,
-      "IsBoss": true,
-      "AvgPop": 1,
-      "Category": 0,
-      "NoAuto": false,
-      "Exp": 1150,
-      "JP": 100,
-      "Money": 100000,
-      "ItemDrops": [
-        {
-          "LootType": 1,
-          "ItemID": 177,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 0
-        },
-        {
-          "LootType": 1,
-          "ItemID": 240,
-          "EquipmentID": 0,
-          "LootChance": 100,
-          "StealChance": 100,
-          "MaxLootCount": 0
-        }
-      ],
-      "ItemSteals": [],
-      "HP": 29000,
-      "MP": 600,
-      "Str": 210,
-      "Vit": 270,
-      "Dex": 210,
-      "Agi": 210,
-      "Mnd": 310,
-      "Spi": 270,
-      "Spd": 280,
-      "Lck": 200,
-      "PAtk": 380,
-      "PPen": 0,
-      "PDef": 540,
-      "PCritChance": 0,
-      "PCritDmg": 0,
-      "PAccRating": 0,
-      "PEvaRating": 0,
-      "MPen": 0,
-      "MDef": 300,
-      "PVariance": 0,
-      "StatMods": [
-        {
-          "Tag": 226,
-          "Value1": 6,
-          "Value2": 0,
-          "Value3": 0
-        },
-        {
-          "Tag": 401,
-          "Value1": 24,
-          "Value2": 0,
-          "Value3": 0
-        }
-      ],
-      "Actions": [
-        {
-          "AbilityID": 0,
-          "Priority": 0,
-          "Weight": 100,
-          "Conds": [],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 261,
-          "Priority": 2,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 2,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 438,
-          "Priority": 4,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 5,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 443,
-          "Priority": 1,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 96,
-              "CondEval": 2,
-              "Not": false,
-              "Value": 0,
-              "Data1": 0
-            },
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 3,
-              "Data1": 0
-            }
-          ],
-          "HasDialogue": false,
-          "Dialogue": null,
-          "TargetTypeOverride": null,
-          "AllyMonsterIDFilter": null,
-          "ApplyMonsterIDFilterToConds": true,
-          "ApplyMonsterIDFilterToTargets": true
-        },
-        {
-          "AbilityID": 323,
-          "Priority": 3,
-          "Weight": 100,
-          "Conds": [
-            {
-              "CondGroup": 0,
-              "SubConds": null,
-              "CondVar": 61,
-              "CondEval": 3,
-              "Not": false,
-              "Value": 4,
               "Data1": 0
             }
           ],
@@ -30952,6 +29458,15 @@
                             }
                           },
                           {
+                            "ActionType": 8,
+                            "Data": {
+                              "LootType": 1,
+                              "LootValue": 246,
+                              "Count": 1,
+                              "Redirect": false
+                            }
+                          },
+                          {
                             "ActionType": 7,
                             "Data": {
                               "Scope": 0,
@@ -31032,6 +29547,51 @@
             "TriggerOnExitProximity": false,
             "TriggerTouchType": 0,
             "Actions": [
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 5,
+                    "Data": {
+                      "LootType": 1,
+                      "LootValue": 246,
+                      "Count": 1,
+                      "Redirect": false
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [],
+                  "ConditionActionsFalse": [
+                    {
+                      "ActionType": 0,
+                      "Data": null
+                    },
+                    {
+                      "ActionType": 1,
+                      "Data": {
+                        "Message": "Thanks again for your help. While sipping my refreshing milk I found this strange stone in the shade. Maybe you can make use of it.",
+                        "NpcKey": null,
+                        "Choices": [],
+                        "AnswerVariableKey": null,
+                        "ShowPartyStatus": false
+                      }
+                    },
+                    {
+                      "ActionType": 8,
+                      "Data": {
+                        "LootType": 1,
+                        "LootValue": 246,
+                        "Count": 1,
+                        "Redirect": false
+                      }
+                    },
+                    {
+                      "ActionType": 2,
+                      "Data": null
+                    }
+                  ]
+                }
+              },
               {
                 "ActionType": 0,
                 "Data": null
@@ -35986,7 +34546,45 @@
                             }
                           }
                         ],
-                        "ConditionActionsFalse": []
+                        "ConditionActionsFalse": [
+                          {
+                            "ActionType": 3,
+                            "Data": {
+                              "Condition": {
+                                "ConditionType": 5,
+                                "Data": {
+                                  "LootType": 1,
+                                  "LootValue": 247,
+                                  "Count": 1,
+                                  "Redirect": false
+                                },
+                                "IsNegation": false
+                              },
+                              "ConditionActionsTrue": [],
+                              "ConditionActionsFalse": [
+                                {
+                                  "ActionType": 1,
+                                  "Data": {
+                                    "Message": "I found this neat little stone while gazing over the horizon. If you want it, you can have it.",
+                                    "NpcKey": null,
+                                    "Choices": [],
+                                    "AnswerVariableKey": null,
+                                    "ShowPartyStatus": false
+                                  }
+                                },
+                                {
+                                  "ActionType": 8,
+                                  "Data": {
+                                    "LootType": 1,
+                                    "LootValue": 247,
+                                    "Count": 1,
+                                    "Redirect": false
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
                       }
                     }
                   ],
@@ -36330,436 +34928,6 @@
                       }
                     }
                   ]
-                }
-              }
-            ],
-            "Context": 0
-          }
-        ]
-      },
-      "SignData": null,
-      "SparkData": null,
-      "DoorData": null,
-      "HomePointData": null,
-      "TreasureData": null,
-      "CrystalData": null,
-      "MarkerData": null
-    },
-    {
-      "ID": 2410,
-      "Coord": {
-        "X": 113,
-        "Y": 172,
-        "Z": -372
-      },
-      "BiomeID": 28,
-      "EntityType": 0,
-      "Comments": null,
-      "NpcData": {
-        "Key": "Z28_Reid",
-        "LinkedKey": null,
-        "TieToSpawn": false,
-        "UniquePerKey": false,
-        "Outfits": [
-          {
-            "Condition": {
-              "ConditionType": 2,
-              "Data": {
-                "LHS": {
-                  "ConditionType": 3,
-                  "Data": {
-                    "Scope": 0,
-                    "EntityKey": null,
-                    "VariableKey": "spoken",
-                    "Eval": 2,
-                    "VariableType": 0,
-                    "Flag": false,
-                    "Number": 0,
-                    "SourceVariableScope": 0,
-                    "SourceVariableKey": null,
-                    "LootType": 0,
-                    "LootValue": 0
-                  },
-                  "IsNegation": true
-                },
-                "Op": 0,
-                "RHS": {
-                  "ConditionType": 4,
-                  "Data": {
-                    "Scope": 2,
-                    "EntityKey": null,
-                    "VariableKey": "Q_Reid",
-                    "Eval": 0,
-                    "VariableType": 0,
-                    "Flag": false,
-                    "Number": 20,
-                    "SourceVariableScope": 0,
-                    "SourceVariableKey": null,
-                    "LootType": 0,
-                    "LootValue": 0
-                  },
-                  "IsNegation": false
-                }
-              },
-              "IsNegation": false
-            },
-            "TextureKey": null,
-            "Name": "@Reid",
-            "PlayerCharacterLevel": 35,
-            "JobID": null,
-            "Facing": 5,
-            "ShadowType": 2,
-            "AutoStep": false,
-            "VoxelID": null,
-            "VoxelVariantIndex": 0,
-            "PlayerCollision": 3,
-            "NpcCollision": 0,
-            "MountType": 15,
-            "JumpType": 0,
-            "KeepSpawned": false,
-            "WanderType": 5,
-            "WanderSpeed": 0.02,
-            "WanderFrequency": 240,
-            "WanderRadius": 1.0,
-            "WanderRoute": [],
-            "WanderRouteIsLine": false
-          }
-        ],
-        "Pages": [
-          {
-            "Condition": {
-              "ConditionType": 0,
-              "Data": null,
-              "IsNegation": false
-            },
-            "TriggerType": 0,
-            "TriggerProximityRadius": 0.0,
-            "TriggerProximityBox": {
-              "XNeg": 0.0,
-              "YNeg": 0.0,
-              "ZNeg": 0.0,
-              "XPos": 0.0,
-              "YPos": 0.0,
-              "ZPos": 0.0
-            },
-            "TriggerOnExitProximity": false,
-            "TriggerTouchType": 0,
-            "Actions": [
-              {
-                "ActionType": 0,
-                "Data": null
-              },
-              {
-                "ActionType": 66,
-                "Data": null
-              },
-              {
-                "ActionType": 1,
-                "Data": {
-                  "Message": "Fancy seeing you here!\r\nHey, you know, I've got something for you.",
-                  "NpcKey": null,
-                  "Choices": [],
-                  "AnswerVariableKey": null,
-                  "ShowPartyStatus": false
-                }
-              },
-              {
-                "ActionType": 8,
-                "Data": {
-                  "LootType": 1,
-                  "LootValue": 33,
-                  "Count": 1,
-                  "Redirect": false
-                }
-              },
-              {
-                "ActionType": 8,
-                "Data": {
-                  "LootType": 1,
-                  "LootValue": 251,
-                  "Count": 1,
-                  "Redirect": false
-                }
-              },
-              {
-                "ActionType": 1,
-                "Data": {
-                  "Message": "@C@Chloe.Name gave me that key. She told me I can use it to reach a great fishing spot in the @Z37.Name.",
-                  "NpcKey": null,
-                  "Choices": [],
-                  "AnswerVariableKey": null,
-                  "ShowPartyStatus": false
-                }
-              },
-              {
-                "ActionType": 1,
-                "Data": {
-                  "Message": "Of course, she meant fishing for birds...",
-                  "NpcKey": null,
-                  "Choices": [],
-                  "AnswerVariableKey": null,
-                  "ShowPartyStatus": false
-                }
-              },
-              {
-                "ActionType": 1,
-                "Data": {
-                  "Message": "But you know, if you use that key to get up the courtyard wall, you can reach some pretty cool places to the east.",
-                  "NpcKey": null,
-                  "Choices": [],
-                  "AnswerVariableKey": null,
-                  "ShowPartyStatus": false
-                }
-              },
-              {
-                "ActionType": 18,
-                "Data": {
-                  "EntityKey": "Z28_Astley",
-                  "Actions": [
-                    {
-                      "ActionType": 12,
-                      "Data": {
-                        "Offset": {
-                          "X": 0,
-                          "Y": 0,
-                          "Z": -1
-                        },
-                        "PostMoveFacing": 0,
-                        "IsRelative": false,
-                        "TargetMarkerKey": null,
-                        "Speed": 0.1,
-                        "WaitType": 1,
-                        "CollisionFree": true,
-                        "JumpType": null,
-                        "TeleportPoint": 0
-                      }
-                    },
-                    {
-                      "ActionType": 1,
-                      "Data": {
-                        "Message": "It's about time for us to head out.",
-                        "NpcKey": null,
-                        "Choices": [],
-                        "AnswerVariableKey": null,
-                        "ShowPartyStatus": false
-                      }
-                    },
-                    {
-                      "ActionType": 12,
-                      "Data": {
-                        "Offset": {
-                          "X": 0,
-                          "Y": 0,
-                          "Z": 2
-                        },
-                        "PostMoveFacing": 5,
-                        "IsRelative": false,
-                        "TargetMarkerKey": null,
-                        "Speed": 0.08,
-                        "WaitType": 0,
-                        "CollisionFree": true,
-                        "JumpType": null,
-                        "TeleportPoint": 0
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "ActionType": 4,
-                "Data": {
-                  "FrameCount": 10
-                }
-              },
-              {
-                "ActionType": 12,
-                "Data": {
-                  "Offset": {
-                    "X": 1,
-                    "Y": 0,
-                    "Z": 2
-                  },
-                  "PostMoveFacing": null,
-                  "IsRelative": false,
-                  "TargetMarkerKey": null,
-                  "Speed": 0.06,
-                  "WaitType": 1,
-                  "CollisionFree": true,
-                  "JumpType": null,
-                  "TeleportPoint": 0
-                }
-              },
-              {
-                "ActionType": 0,
-                "Data": null
-              },
-              {
-                "ActionType": 1,
-                "Data": {
-                  "Message": "Anyway, go check it out. And thank me later I guess.",
-                  "NpcKey": null,
-                  "Choices": [],
-                  "AnswerVariableKey": null,
-                  "ShowPartyStatus": false
-                }
-              },
-              {
-                "ActionType": 25,
-                "Data": {
-                  "Facing": 5
-                }
-              },
-              {
-                "ActionType": 12,
-                "Data": {
-                  "Offset": {
-                    "X": 2,
-                    "Y": 0,
-                    "Z": 3
-                  },
-                  "PostMoveFacing": null,
-                  "IsRelative": false,
-                  "TargetMarkerKey": null,
-                  "Speed": 0.08,
-                  "WaitType": 1,
-                  "CollisionFree": true,
-                  "JumpType": null,
-                  "TeleportPoint": 0
-                }
-              },
-              {
-                "ActionType": 12,
-                "Data": {
-                  "Offset": {
-                    "X": 2,
-                    "Y": 0,
-                    "Z": 13
-                  },
-                  "PostMoveFacing": null,
-                  "IsRelative": false,
-                  "TargetMarkerKey": null,
-                  "Speed": 0.1,
-                  "WaitType": 0,
-                  "CollisionFree": true,
-                  "JumpType": null,
-                  "TeleportPoint": 0
-                }
-              },
-              {
-                "ActionType": 18,
-                "Data": {
-                  "EntityKey": "Z28_Astley",
-                  "Actions": [
-                    {
-                      "ActionType": 12,
-                      "Data": {
-                        "Offset": {
-                          "X": 0,
-                          "Y": 0,
-                          "Z": 3
-                        },
-                        "PostMoveFacing": null,
-                        "IsRelative": false,
-                        "TargetMarkerKey": null,
-                        "Speed": 0.07,
-                        "WaitType": 1,
-                        "CollisionFree": true,
-                        "JumpType": null,
-                        "TeleportPoint": 0
-                      }
-                    },
-                    {
-                      "ActionType": 12,
-                      "Data": {
-                        "Offset": {
-                          "X": 0,
-                          "Y": 0,
-                          "Z": 12
-                        },
-                        "PostMoveFacing": null,
-                        "IsRelative": false,
-                        "TargetMarkerKey": null,
-                        "Speed": 0.12,
-                        "WaitType": 2,
-                        "CollisionFree": true,
-                        "JumpType": null,
-                        "TeleportPoint": 0
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "ActionType": 12,
-                "Data": {
-                  "Offset": {
-                    "X": 2,
-                    "Y": 0,
-                    "Z": 13
-                  },
-                  "PostMoveFacing": null,
-                  "IsRelative": false,
-                  "TargetMarkerKey": null,
-                  "Speed": 0.12,
-                  "WaitType": 2,
-                  "CollisionFree": true,
-                  "JumpType": null,
-                  "TeleportPoint": 0
-                }
-              },
-              {
-                "ActionType": 6,
-                "Data": {
-                  "Scope": 0,
-                  "EntityKey": null,
-                  "VariableKey": "spoken",
-                  "VariableType": 0,
-                  "Flag": true,
-                  "Number": 0,
-                  "SourceVariableScope": 0,
-                  "SourceVariableKey": null,
-                  "LootType": 0,
-                  "LootValue": 0
-                }
-              },
-              {
-                "ActionType": 48,
-                "Data": {
-                  "RefreshCurrentOutfit": true,
-                  "RefreshCurrentPage": false,
-                  "RefreshCurrentPosition": false,
-                  "CancelAllActiveActions": false,
-                  "TriggerPlayerAction": false,
-                  "TriggerPlayerProximity": false,
-                  "TriggerAuto": false,
-                  "TriggerPlayerTouch": false,
-                  "TriggerTriggerNpc": false,
-                  "GlobalRefreshOutfits": false,
-                  "GlobalRefreshPages": false,
-                  "GlobalRefreshPositions": false,
-                  "GlobalTrySpawn": false,
-                  "GlobalTryDespawn": false,
-                  "NpcKey": "Z28_Astley"
-                }
-              },
-              {
-                "ActionType": 10,
-                "Data": {
-                  "RefreshCurrentOutfit": true,
-                  "RefreshCurrentPage": false,
-                  "RefreshCurrentPosition": false,
-                  "CancelAllActiveActions": false,
-                  "TriggerPlayerAction": false,
-                  "TriggerPlayerProximity": false,
-                  "TriggerAuto": false,
-                  "TriggerPlayerTouch": false,
-                  "TriggerTriggerNpc": false,
-                  "GlobalRefreshOutfits": false,
-                  "GlobalRefreshPages": false,
-                  "GlobalRefreshPositions": false,
-                  "GlobalTrySpawn": false,
-                  "GlobalTryDespawn": false,
-                  "NpcKey": null
                 }
               }
             ],
@@ -42134,6 +40302,198 @@
         "Facing": 5,
         "LootType": 1,
         "LootValue": 262,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    },
+    {
+      "ID": 5003,
+      "Coord": {
+        "X": -186,
+        "Y": 38,
+        "Z": -301
+      },
+      "BiomeID": 140,
+      "EntityType": 5,
+      "Comments": null,
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 2,
+        "LootType": 1,
+        "LootValue": 229,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    },
+    {
+      "ID": 5004,
+      "Coord": {
+        "X": 69,
+        "Y": 148,
+        "Z": 89
+      },
+      "BiomeID": 44,
+      "EntityType": 5,
+      "Comments": null,
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 1,
+        "LootType": 1,
+        "LootValue": 231,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    },
+    {
+      "ID": 5005,
+      "Coord": {
+        "X": 70,
+        "Y": 148,
+        "Z": 89
+      },
+      "BiomeID": 44,
+      "EntityType": 5,
+      "Comments": null,
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 1,
+        "LootType": 1,
+        "LootValue": 232,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    },
+    {
+      "ID": 5006,
+      "Coord": {
+        "X": -148,
+        "Y": 67,
+        "Z": 65
+      },
+      "BiomeID": 79,
+      "EntityType": 5,
+      "Comments": null,
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 1,
+        "LootType": 1,
+        "LootValue": 240,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    },
+    {
+      "ID": 5007,
+      "Coord": {
+        "X": 194,
+        "Y": 245,
+        "Z": -257
+      },
+      "BiomeID": 62,
+      "EntityType": 5,
+      "Comments": null,
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 1,
+        "LootType": 1,
+        "LootValue": 244,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    },
+    {
+      "ID": 5008,
+      "Coord": {
+        "X": 101,
+        "Y": 172,
+        "Z": -380
+      },
+      "BiomeID": 28,
+      "EntityType": 5,
+      "Comments": null,
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 1,
+        "LootType": 1,
+        "LootValue": 251,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    },
+    {
+      "ID": 5009,
+      "Coord": {
+        "X": -272,
+        "Y": 252,
+        "Z": -557
+      },
+      "BiomeID": 45,
+      "EntityType": 5,
+      "Comments": null,
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 1,
+        "LootType": 1,
+        "LootValue": 266,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    },
+    {
+      "ID": 5010,
+      "Coord": {
+        "X": -272,
+        "Y": 105,
+        "Z": -71
+      },
+      "BiomeID": 33,
+      "EntityType": 5,
+      "Comments": "",
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 1,
+        "LootType": 1,
+        "LootValue": 256,
         "Style": null
       },
       "CrystalData": null,
