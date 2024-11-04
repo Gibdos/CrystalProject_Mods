@@ -23,9 +23,9 @@ This version has all teleport locations automatically enabled without the need f
 Adds the Glyphic Relocator and more then 120 fast travel locations to the game.
 
 - All home points
-- All Summoner Challenges
-- All Class Masters
-- Additional bonus locations
+- All Summoner Challenges (**Not yet included in this version**)
+- All Class Masters (**Not yet included in this version**)
+- Additional bonus locations (**Not yet included in this version**)
 
 You get it automatically when you start a new game or you can get it from the Nan that gave you your first map.
 
