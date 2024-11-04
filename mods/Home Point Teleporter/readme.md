@@ -1,19 +1,35 @@
 # ✴️ The Glyphic Relocator Crystal Project Mod ✴️
 
 ## Home Point Teleport Free Version
-##### ❗️ NOT RECOMMENDED FOR FIRST TIME PLAYERS ❗️
-An item that let's you **freely teleport to any home point** in the game. 
+> [!CAUTION]
+> Not recommended for your first playthrough
+
+Adds the Glyphic Relocator and more then 120 fast travel locations to the game.
+
+- All home points
+- All Summoner Challenges
+- All Class Masters
+- Additional bonus locations
+
 You get it automatically when you start a new game or you can get it from the Nan that gave you your first map.
 
-This one has all home point teleport locations automatically enabled without the need for the glyphs.
-You can still stumble upon the glyph items in the game, but they are not needed.
-
+This version has all teleport locations automatically enabled without the need for the glyphs.
 
 ## Home Point Teleport
-An item that let's you **freely teleport to any home point in the game**. 
+
+> [!NOTE]
+> Can be a nice addition, even in your first playthrough
+
+Adds the Glyphic Relocator and more then 120 fast travel locations to the game.
+
+- All home points
+- All Summoner Challenges
+- All Class Masters
+- Additional bonus locations
+
 You get it automatically when you start a new game or you can get it from the Nan that gave you your first map.
 
-This one requires you to find 30+ glyph items hidden around the world. Each glyph enables their corresponding home point(s).
+This version requires you to find 30+ glyph items hidden throughout the world. Each glyph enables their corresponding home point(s).
 
 As an example: The **Capital Sequoia Glyph** unlocks the following home points in the Glyphic Relocator
 
@@ -25,6 +41,12 @@ As an example: The **Capital Sequoia Glyph** unlocks the following home points i
 * Castle Sequoia Foyer
 
 I hope you enjoy this little mod. I put a lot of work and effort into it.
+
+## Screenshots
+![Glyphic Relocator](assets/Glyphic_Relocator.jpg)
+![Spawning Meadows Glyph](assets/Example_Glyph.jpg)
+![Location Overview](assets/Page_Selector.jpg)
+![Example Page](assets/Example_Page.jpg)
 
 ## Glyph Locations
 I highly encourage you to try and find the glyphs by yourself. It's part of the adventure.
