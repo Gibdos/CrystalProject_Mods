@@ -49,6 +49,8 @@ But if you really can't find <u>*that one glyph*</u>, feel free to check in the 
 - [X] Add all regular home points
 - [X] Check if all glyphs are obtainable
 - [ ] Add a bonus glyph with additional teleport locations
+- [ ] Add Class Master Locations
+- [ ] Add Summoner Locations
 - [ ] Find out how to upload the mod to Steam without owning the Steam version
 
 ## Special Thanks
