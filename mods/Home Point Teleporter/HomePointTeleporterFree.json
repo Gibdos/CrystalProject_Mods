@@ -6,7 +6,7 @@
   "Version": "1.0",
   "EditorVersion": 26,
   "SteamWorkshopFileID": 0,
-  "Timestamp": "2024-11-03T17:20:01.8938886Z",
+  "Timestamp": "2024-11-04T05:18:41.894492Z",
   "IsLocalization": false,
   "Language": null,
   "HasCustomContent": false,
@@ -18191,7 +18191,7 @@
           "IsExpanded": false
         }
       ],
-      "IsExpanded": false
+      "IsExpanded": true
     },
     {
       "ModelTypeID": 3,
@@ -36948,6 +36948,19 @@
                       }
                     },
                     {
+                      "Text": "???",
+                      "AnswerVariableValue": 7,
+                      "Cost": 0,
+                      "IsCostOfItem": false,
+                      "IsDefaultSelected": false,
+                      "IsDefaultBack": false,
+                      "Condition": {
+                        "ConditionType": 0,
+                        "Data": null,
+                        "IsNegation": false
+                      }
+                    },
+                    {
                       "Text": "Cancel",
                       "AnswerVariableValue": 0,
                       "Cost": 0,
@@ -38254,6 +38267,198 @@
                           {
                             "Text": "Yamagawa M.A. Summit",
                             "AnswerVariableValue": 79,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "Cancel",
+                            "AnswerVariableValue": 0,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": true,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          }
+                        ],
+                        "AnswerVariableKey": "TeleportBuddyLocation",
+                        "ShowPartyStatus": false
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyPage",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 7,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 68,
+                      "Data": {
+                        "Message": "Choose your destination!",
+                        "NpcKey": null,
+                        "Choices": [
+                          {
+                            "Text": "Summit of the Chalice",
+                            "AnswerVariableValue": 80,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "Top of the Ancient Labyrinth",
+                            "AnswerVariableValue": 81,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "Top of Castle Sequoia",
+                            "AnswerVariableValue": 82,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "Eastern Chasm",
+                            "AnswerVariableValue": 83,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "Northern Stretch",
+                            "AnswerVariableValue": 84,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "Tentacle Village",
+                            "AnswerVariableValue": 85,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "STEM",
+                            "AnswerVariableValue": 86,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "The Old One",
+                            "AnswerVariableValue": 87,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "The Peacekeeper",
+                            "AnswerVariableValue": 88,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "The Enforcer",
+                            "AnswerVariableValue": 89,
+                            "Cost": 0,
+                            "IsCostOfItem": false,
+                            "IsDefaultSelected": false,
+                            "IsDefaultBack": false,
+                            "Condition": {
+                              "ConditionType": 0,
+                              "Data": null,
+                              "IsNegation": false
+                            }
+                          },
+                          {
+                            "Text": "The Devourer",
+                            "AnswerVariableValue": 90,
                             "Cost": 0,
                             "IsCostOfItem": false,
                             "IsDefaultSelected": false,
@@ -41668,6 +41873,479 @@
                           "X": 66,
                           "Y": 183,
                           "Z": -95
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 80,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": 577,
+                          "Y": 253,
+                          "Z": -429
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 81,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": -201,
+                          "Y": 157,
+                          "Z": -260
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 82,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": 405,
+                          "Y": 254,
+                          "Z": -390
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 83,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": 734,
+                          "Y": 234,
+                          "Z": -487
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 84,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": 458,
+                          "Y": 222,
+                          "Z": -557
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 85,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": 166,
+                          "Y": 90,
+                          "Z": -581
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 86,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": -352,
+                          "Y": 90,
+                          "Z": 54
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 87,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": 177,
+                          "Y": 90,
+                          "Z": 241
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 88,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": 857,
+                          "Y": 90,
+                          "Z": -456
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 89,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": 504,
+                          "Y": 90,
+                          "Z": 176
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 90,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": 925,
+                          "Y": 90,
+                          "Z": -62
                         },
                         "PostMoveFacing": null,
                         "IsRelative": false,
