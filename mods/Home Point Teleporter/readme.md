@@ -23,9 +23,9 @@ This version has all teleport locations automatically enabled without the need f
 Adds the Glyphic Relocator and more then 120 fast travel locations to the game.
 
 - All home points
-- All Summoner Challenges (**Not yet included in this version**)
-- All Class Masters (**Not yet included in this version**)
-- Additional bonus locations (**Not yet included in this version**)
+- All Summoner Challenges
+- All Class Masters
+- Additional bonus locations
 
 You get it automatically when you start a new game or you can get it from the Nan that gave you your first map.
 
@@ -70,12 +70,9 @@ But if you really can't find <u>*that one glyph*</u>, feel free to check in the 
 
 - [X] Add all regular home points
 - [X] Check if all glyphs are obtainable
-- [ ] Add additional non home point locations
-    - [X] Done for glyphless version
-- [ ] Add Class Master locations
-    - [X] Done for glyphless version
-- [ ] Add Summoner locations
-    - [X] Done for glyphless version
+- [X] Add additional non home point locations
+- [X] Add Class Master locations
+- [X] Add Summoner locations
 - [ ] Find out how to upload the mod to Steam without owning the Steam version
 
 ## Known Bugs
