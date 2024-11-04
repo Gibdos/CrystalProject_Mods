@@ -48,10 +48,18 @@ But if you really can't find <u>*that one glyph*</u>, feel free to check in the 
 
 - [X] Add all regular home points
 - [X] Check if all glyphs are obtainable
-- [ ] Add a bonus glyph with additional teleport locations
-- [ ] Add Class Master Locations
-- [ ] Add Summoner Locations
+- [ ] Add additional non home point locations
+    - [X] Done for glyphless version
+- [ ] Add Class Master locations
+    - [X] Done for glyphless version
+- [ ] Add Summoner locations
+    - [X] Done for glyphless version
 - [ ] Find out how to upload the mod to Steam without owning the Steam version
+
+## Known Bugs
+- Occasional bug when teleporting from underwater
+    - Can be fixed by just teleporting again or first using a shrine stone / shard
+- When canceling out of the page menu you get warped to your last used location
 
 ## Special Thanks
 A special thanks goes out to **@Rafidur** and **#Z`** on the official Discord server. Without your help at the beginning none of this would have worked out.
