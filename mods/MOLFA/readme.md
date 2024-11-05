@@ -2,6 +2,9 @@
 
 Adds 150+ chest, hidden throughout the world, with consumables that give your party EXP and JP.
 
+> [!NOTE]
+> Recommended without EXP / JP Multiplyer assist option, otherwiese you level up super quick
+
 ## Items
 
 >**Dust of a long forgotten Adventurer**<br>
