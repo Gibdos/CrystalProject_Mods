@@ -5,9 +5,9 @@ Adds 150+ chest, hidden throughout the world, with consumables that give your pa
 ## Items
 
 >**Dust of a long forgotten Adventurer**
->Scattered remains of an ancient adventurer. Their memories ground to dust.
->Gives the party + Experience Points
->Gives the party + Job Experience Points
+Scattered remains of an ancient adventurer. Their memories ground to dust.
+Gives the party + Experience Points
+Gives the party + Job Experience Points
 
 >**Wisp of a long forgotten Adventurer**
 >Withered soul of an ancient adventurer. Their memories glimmer weakly.
