@@ -38,3 +38,8 @@ But if you need guidance, feel free to check in the [Treasure Location Reference
     * **MacOS**: *~/Library/Application Support/Crystal Project/Mods/*
     * **Linux**: *~/.local/share/Crystal Project/Mods/*
 * Enable the mod in-game
+
+## ToDo
+- [ ] Add chests to the game
+- [ ] Check to see if all chests are findable / reachable
+- [ ] Check leveling speed balance
