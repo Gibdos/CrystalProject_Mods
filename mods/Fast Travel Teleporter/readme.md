@@ -1,6 +1,7 @@
 # ✴️ The Glyphic Relocator Crystal Project Mod ✴️
 
-## Home Point Teleport Free Version
+## Fast Travel Teleporter (Free)
+![Glyphic Relocator](assets/FTTF.jpg)
 > [!CAUTION]
 > Not recommended for your first playthrough
 
@@ -15,8 +16,8 @@ You get it automatically when you start a new game or you can get it from the Na
 
 This version has all teleport locations automatically enabled without the need for the glyphs.
 
-## Home Point Teleport
-
+## Fast Travel Teleporter
+![Glyphic Relocator](assets/FTT.jpg)
 > [!NOTE]
 > Can be a nice addition, even in your first playthrough
 
@@ -73,7 +74,6 @@ But if you really can't find <u>*that one glyph*</u>, feel free to check in the 
 - [X] Add additional non home point locations
 - [X] Add Class Master locations
 - [X] Add Summoner locations
-- [ ] Find out how to upload the mod to Steam without owning the Steam version
 
 ## Known Bugs
 - Occasional bug when teleporting from underwater
