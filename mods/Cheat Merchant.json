@@ -6,7 +6,7 @@
   "Version": "1.0",
   "EditorVersion": 26,
   "SteamWorkshopFileID": 0,
-  "Timestamp": "2024-11-02T17:03:58.315203Z",
+  "Timestamp": "2024-11-04T19:01:10.3210135Z",
   "IsLocalization": false,
   "Language": null,
   "HasCustomContent": false,
@@ -10521,7 +10521,7 @@
           "IsExpanded": false
         }
       ],
-      "IsExpanded": true
+      "IsExpanded": false
     },
     {
       "ModelTypeID": 3,
@@ -27800,6 +27800,16 @@
                     {
                       "LootType": 1,
                       "LootValue": 235,
+                      "CostRate": 0,
+                      "Condition": {
+                        "ConditionType": 0,
+                        "Data": null,
+                        "IsNegation": false
+                      }
+                    },
+                    {
+                      "LootType": 1,
+                      "LootValue": 196,
                       "CostRate": 0,
                       "Condition": {
                         "ConditionType": 0,
