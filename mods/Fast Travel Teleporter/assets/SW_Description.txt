@@ -1,0 +1,73 @@
+[h1]✴️ The Glyphic Relocator Crystal Project Mod ✴️[/h1]
+
+[h2]Fast Travel Teleporter (Free)[/h2]
+
+[quote]Not recommended for your first playthrough[/quote]
+
+Adds the Glyphic Relocator and more then 120 fast travel locations to the game.
+
+[list]
+    [*]All home points
+    [*]All Summoner Challenges
+    [*]All Class Masters
+    [*]Additional bonus locations
+[/list]
+
+You get it automatically when you start a new game or you can get it from the Nan that gave you your first map.
+
+This version has all teleport locations automatically enabled without the need for the glyphs.
+
+[h2]Fast Travel Teleporter[/h2]
+
+[quote]Can be a nice addition, even in your first playthrough[/quote]
+
+Adds the Glyphic Relocator and more then 120 fast travel locations to the game.
+
+[list]
+    [*]All home points
+    [*]All Summoner Challenges
+    [*]All Class Masters
+    [*]Additional bonus locations
+[/list]
+
+You get it automatically when you start a new game or you can get it from the Nan that gave you your first map.
+
+This version requires you to find 30+ glyph items hidden throughout the world. Each glyph enables their corresponding home point(s).
+
+As an example: The [b]Capital Sequoia Glyph[/b] unlocks the following home points in the Glyphic Relocator
+
+[list]
+    [*]Bulletin Square
+    [*]Training Grounds
+    [*]West Market District
+    [*]Know-It-All Ducks' House
+    [*]East Market District
+    [*]Castle Sequoia Foyer
+[/list]
+
+I hope you enjoy this little mod. I put a lot of work and effort into it.
+
+[h2]Glyph Locations[/h2]
+
+I highly encourage you to try and find the glyphs by yourself. It's part of the adventure.
+But if you really can't find <u>[i]that one glyph[/i]</u>, feel free to check in the [url=https://github.com/Gibdos/CrystalProject_Mods/blob/main/mods/Fast%20Travel%20Teleporter/Glyph_Location_Reference.pdf]Glyph Location Reference[/url].
+
+[h2]Compatibility & Testing[/h2]
+
+[list]
+    [*]The mod has been tested with version 1.6.1
+    [*]All glyphs have been tested and are obtainable when starting a new game
+    [*]All glyphs have been tested and [i][b]should[/b][/i] be obtainable if the mod is used otherwise
+[/list]
+
+[h2]Known Bugs[/h2]
+
+[list]
+    [*]Occasional bug when teleporting from underwater
+    [*]Can be fixed by just teleporting again or first using a shrine stone / shard
+    [*]When canceling out of the page menu you get warped to your last used location
+[/list]
+
+[h2]Special Thanks[/h2]
+
+A special thanks goes out to [b]@Rafidur[/b] and [b]#Z`[/b] on the official Discord server. Without your help at the beginning none of this would have worked out.
