@@ -1,12 +1,12 @@
 {
-  "ID": "972bac41-d211-415e-abf8-28a1f0cmolfa",
-  "Title": "MOLFA",
-  "Description": "Memories of long forgotten adventurers - Adds 150+ trasure chests with EXP / JP consumables hidden thoughout the world.",
-  "Author": "",
+  "ID": "972bac41-d211-415e-abf8-28a1f0cdmooh",
+  "Title": "MOOH",
+  "Description": "Memories of old Heroes - Adds 150+ trasure chests with EXP / JP consumables hidden thoughout the world.",
+  "Author": "Gibdos",
   "Version": "1.0",
   "EditorVersion": 26,
   "SteamWorkshopFileID": 0,
-  "Timestamp": "2024-11-05T19:13:02.8356375Z",
+  "Timestamp": "2024-11-05T19:59:06.2392004Z",
   "IsLocalization": false,
   "Language": null,
   "HasCustomContent": false,
@@ -16685,7 +16685,7 @@
               "IsExpanded": false
             }
           ],
-          "IsExpanded": false
+          "IsExpanded": true
         },
         {
           "ModelTypeID": 14,
@@ -17924,7 +17924,7 @@
           "IsExpanded": false
         }
       ],
-      "IsExpanded": false
+      "IsExpanded": true
     },
     {
       "ModelTypeID": 3,
@@ -27125,7 +27125,7 @@
   "Abilities": [
     {
       "ID": 508,
-      "Name": "EXP Powder",
+      "Name": "HeroDust",
       "Comments": null,
       "Flavor": null,
       "Description": null,
@@ -27133,7 +27133,7 @@
       "TexturePath": null,
       "TextureIndex": 0,
       "HideDamageFromDescription": false,
-      "HideScopeFromDescription": false,
+      "HideScopeFromDescription": true,
       "HideStatusesFromDescription": false,
       "HideModsFromDescription": false,
       "UsageAnimationID": null,
@@ -27190,7 +27190,7 @@
     },
     {
       "ID": 509,
-      "Name": "EXP Crystal",
+      "Name": "HeroWisp",
       "Comments": null,
       "Flavor": null,
       "Description": null,
@@ -27198,7 +27198,7 @@
       "TexturePath": null,
       "TextureIndex": 0,
       "HideDamageFromDescription": false,
-      "HideScopeFromDescription": false,
+      "HideScopeFromDescription": true,
       "HideStatusesFromDescription": false,
       "HideModsFromDescription": false,
       "UsageAnimationID": null,
@@ -27255,7 +27255,7 @@
     },
     {
       "ID": 510,
-      "Name": "EXP Diamond",
+      "Name": "HeroSoul",
       "Comments": null,
       "Flavor": null,
       "Description": null,
@@ -27263,7 +27263,7 @@
       "TexturePath": null,
       "TextureIndex": 0,
       "HideDamageFromDescription": false,
-      "HideScopeFromDescription": false,
+      "HideScopeFromDescription": true,
       "HideStatusesFromDescription": false,
       "HideModsFromDescription": false,
       "UsageAnimationID": null,
@@ -27320,7 +27320,7 @@
     },
     {
       "ID": 511,
-      "Name": "EXP Tome",
+      "Name": "HeroTale",
       "Comments": null,
       "Flavor": null,
       "Description": null,
@@ -27328,7 +27328,7 @@
       "TexturePath": null,
       "TextureIndex": 0,
       "HideDamageFromDescription": false,
-      "HideScopeFromDescription": false,
+      "HideScopeFromDescription": true,
       "HideStatusesFromDescription": false,
       "HideModsFromDescription": false,
       "UsageAnimationID": null,
@@ -27393,10 +27393,10 @@
   "Items": [
     {
       "ID": 229,
-      "Name": "Dust of a long forgotten Adventurer",
+      "Name": "Dust of an old Hero",
       "Comments": null,
       "Flavor": null,
-      "Description": "Scattered remains of an ancient adventurer. Their memories ground to dust.",
+      "Description": "Scattered remains of an old hero. Their memories ground to dust.",
       "SortOrder": 31,
       "ScaledOrder": 0,
       "LocationBiomeID": null,
@@ -27416,10 +27416,10 @@
     },
     {
       "ID": 230,
-      "Name": "Wisp of a long forgotten Adventurer",
+      "Name": "Wisp of an old Hero",
       "Comments": null,
       "Flavor": null,
-      "Description": "Withered soul of an ancient adventurer. Their memories glimmer weakly.",
+      "Description": "Withered soul of an old hero. Their memories glimmer weakly.",
       "SortOrder": 32,
       "ScaledOrder": 0,
       "LocationBiomeID": null,
@@ -27439,10 +27439,10 @@
     },
     {
       "ID": 231,
-      "Name": "Soul of a long forgotten Adventurer",
+      "Name": "Soul of an old Hero",
       "Comments": null,
       "Flavor": null,
-      "Description": "Soul of an ancient adventurer. Their memories flood your senses.",
+      "Description": "Soul of an old Hero. Their memories flood your senses.",
       "SortOrder": 33,
       "ScaledOrder": 0,
       "LocationBiomeID": null,
@@ -27462,10 +27462,10 @@
     },
     {
       "ID": 232,
-      "Name": "Story of a long forgotten Hero",
+      "Name": "Tales of an old Hero",
       "Comments": null,
       "Flavor": null,
-      "Description": "Gripping tale of adventure, life and love lost. Their memories inspire you.",
+      "Description": "Gripping tales of adventure, life and love lost. Their memories inspire you.",
       "SortOrder": 34,
       "ScaledOrder": 0,
       "LocationBiomeID": null,
@@ -27491,5 +27491,78 @@
   "Sparks": [],
   "Statuses": [],
   "Troops": [],
-  "Entities": []
+  "Entities": [
+    {
+      "ID": 5000,
+      "Coord": {
+        "X": 128,
+        "Y": 114,
+        "Z": -36
+      },
+      "BiomeID": 1,
+      "EntityType": 5,
+      "Comments": null,
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 1,
+        "LootType": 1,
+        "LootValue": 229,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    },
+    {
+      "ID": 5001,
+      "Coord": {
+        "X": 93,
+        "Y": 114,
+        "Z": -44
+      },
+      "BiomeID": 1,
+      "EntityType": 5,
+      "Comments": null,
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 0,
+        "LootType": 1,
+        "LootValue": 229,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    },
+    {
+      "ID": 5002,
+      "Coord": {
+        "X": 94,
+        "Y": 103,
+        "Z": 5
+      },
+      "BiomeID": 1,
+      "EntityType": 5,
+      "Comments": null,
+      "NpcData": null,
+      "SignData": null,
+      "SparkData": null,
+      "DoorData": null,
+      "HomePointData": null,
+      "TreasureData": {
+        "Facing": 3,
+        "LootType": 1,
+        "LootValue": 229,
+        "Style": null
+      },
+      "CrystalData": null,
+      "MarkerData": null
+    }
+  ]
 }

@@ -1,4 +1,4 @@
-# Memories Of Long Forgotten Adventurers (MOLFA)
+# Memories Of Old Heroes (MOOH)
 
 Adds 150+ chest, hidden throughout the world, with consumables that give your party EXP and JP.
 
@@ -7,23 +7,23 @@ Adds 150+ chest, hidden throughout the world, with consumables that give your pa
 
 ## Items
 
->**Dust of a long forgotten Adventurer**<br>
->Scattered remains of an ancient adventurer. Their memories ground to dust.<br>
+>**Dust of an old Heror**<br>
+>Scattered remains of an old Hero. Their memories ground to dust.<br>
 >Gives the party + Experience Points<br>
 >Gives the party + Job Experience Points
 
->**Wisp of a long forgotten Adventurer**<br>
->Withered soul of an ancient adventurer. Their memories glimmer weakly.<br>
+>**Wisp of an old Hero**<br>
+>Withered soul of an old Hero. Their memories glimmer weakly.<br>
 >Gives the party ++ Experience Points<br>
 >Gives the party ++ Job Experience Points<br>
 
->**Soul of a long forgotten Adventurer**<br>
->Soul of an ancient adventurer. Their memories flood your senses.<br>
+>**Soul of an old Hero**<br>
+>Soul of an old Hero. Their memories flood your senses.<br>
 >Gives the party +++ Experience Points<br>
 >Gives the party +++ Job Experience Points<br>
 
->**Tale of a long forgotten Hero**<br>
->Gripping tale of adventure, life and love lost. Their memories inspire you.<br>
+>**Tales of an old Hero**<br>
+>Gripping tales of adventure, life and love lost. Their memories inspire you.<br>
 >Gives the party ++++ Experience Points<br>
 >Gives the party ++++ Job Experience Points<br>
 
