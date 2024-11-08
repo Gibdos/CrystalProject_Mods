@@ -6,7 +6,7 @@
   "Version": "1.1",
   "EditorVersion": 26,
   "SteamWorkshopFileID": 3360451428,
-  "Timestamp": "2024-11-05T04:39:00.029824Z",
+  "Timestamp": "2024-11-08T08:08:23.541567Z",
   "IsLocalization": false,
   "Language": null,
   "HasCustomContent": false,
@@ -17938,7 +17938,7 @@
           "IsExpanded": false
         }
       ],
-      "IsExpanded": false
+      "IsExpanded": true
     },
     {
       "ModelTypeID": 3,
@@ -34122,6 +34122,49 @@
                           "X": 720,
                           "Y": 138,
                           "Z": -276
+                        },
+                        "PostMoveFacing": null,
+                        "IsRelative": false,
+                        "TargetMarkerKey": null,
+                        "Speed": 0.1,
+                        "WaitType": 1,
+                        "CollisionFree": true,
+                        "JumpType": null,
+                        "TeleportPoint": 0
+                      }
+                    }
+                  ],
+                  "ConditionActionsFalse": []
+                }
+              },
+              {
+                "ActionType": 3,
+                "Data": {
+                  "Condition": {
+                    "ConditionType": 4,
+                    "Data": {
+                      "Scope": 0,
+                      "EntityKey": null,
+                      "VariableKey": "TeleportBuddyLocation",
+                      "Eval": 2,
+                      "VariableType": 0,
+                      "Flag": false,
+                      "Number": 99,
+                      "SourceVariableScope": 0,
+                      "SourceVariableKey": null,
+                      "LootType": 0,
+                      "LootValue": 0
+                    },
+                    "IsNegation": false
+                  },
+                  "ConditionActionsTrue": [
+                    {
+                      "ActionType": 51,
+                      "Data": {
+                        "Offset": {
+                          "X": 672,
+                          "Y": 124,
+                          "Z": 108
                         },
                         "PostMoveFacing": null,
                         "IsRelative": false,
