@@ -2,16 +2,16 @@
 
 ## Required Quintars
 
-**Blue Trusty**
+**Blue Trusty**<br>
 Found just East of Yamagawa M.A., NW of Dione Shrine
 
-**Red Woke**
+**Red Woke**<br>
 Found North East in Quintar Reserve
 
-**River Woke**
+**River Woke**<br>
 Found West of Catfish Sanctuary
 
-**Desert Brutish**
+**Desert Brutish**<br>
 Found South East and South West in Poko Poko Desert
 
 ## Breeding Guide
