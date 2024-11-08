@@ -18,3 +18,6 @@ On top of the tree inside Dione Shrine.
     * **MacOS**: *~/Library/Application Support/Crystal Project/Mods/*
     * **Linux**: *~/.local/share/Crystal Project/Mods/*
 * Enable the mod in-game
+
+## Breeding Guide
+If you want a guide on how to breed your Golden Quintar instead, feel free to check my [guide](./Breeding_Guide.md).
