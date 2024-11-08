@@ -11,6 +11,9 @@ You can fight him multiple times and get multiple eggs, if you so desire.
 ## NPC Location
 On top of the tree inside Dione Shrine.
 
+## Known Bugs
+- If you cancel out of the egg reward, you will loose the Golden Quintar Eye and not get the egg
+
 ## How to install the mod
 * Download the mods
 * Copy the .json file to either
