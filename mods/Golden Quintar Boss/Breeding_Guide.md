@@ -16,22 +16,22 @@ Found South East and South West in Poko Poko Desert
 
 ## Breeding Guide
 
-1. Blue Trusty + River Woke = Blue Fancy
-    - Release Blue Trusty
+1. Blue Trusty + River Woke = Blue Fancy<br>
+    - Release Blue Trusty<br><br>
 
-2. Blue Fancy + Red Woke = Highland Brutish
-Highland Brutish + Blue Fancy = Highland Fancy
-Highland Fancy + River Woke = Aqua Brutish
-    - Release Red Woke, Highland Brutish, Highland Fancy
+2. Blue Fancy + Red Woke = Highland Brutish<br>
+Highland Brutish + Blue Fancy = Highland Fancy<br>
+Highland Fancy + River Woke = Aqua Brutish<br>
+    - Release Red Woke, Highland Brutish, Highland Fancy<br><br>
 
-3. Desert Brutish + River Woke = Desert Woke
-Aqua Brutish + Desert Woke = Aqua Woke
-    - Release Aqua Brutish, Desert Woke
+3. Desert Brutish + River Woke = Desert Woke<br>
+Aqua Brutish + Desert Woke = Aqua Woke<br>
+    - Release Aqua Brutish, Desert Woke<br><br>
 
-4. Desert Brutish + Blue Fancy = Desert Fancy
-Desert Fancy + River Woke = Black Brutish
-Black Brutish + Desert Fancy = Black Fancy
-    - Release anything but Black Fancy, Aqua Woke
+4. Desert Brutish + Blue Fancy = Desert Fancy<br>
+Desert Fancy + River Woke = Black Brutish<br>
+Black Brutish + Desert Fancy = Black Fancy<br>
+    - Release anything but Black Fancy, Aqua Woke<br><br>
 
 5. Black Fancy + Aqua Woke = Golden Brutish
 
