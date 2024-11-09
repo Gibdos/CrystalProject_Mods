@@ -13,6 +13,9 @@ You get it automatically when you start a new game or you can get it from the Na
 One version that requires you to find 30+ glyphs hidden throughout the game.
 One version that has all fast travel locations unlocked.
 
+## [Golden Quintar Boss - Buttermint Sr.](mods/Golden%20Quintar%20Boss/)
+Adds an optional Boss to Dione Shrine (Buttermint Sr.) as an alternative to breeding your Golden Quintar.
+
 ## [MOOH - Memories Of Old Heroes](mods/MOOH/)
 Adds 150+ treasure chests, hidden throughout the world, that contain consumables which give your party EXP and JEXP.
 
